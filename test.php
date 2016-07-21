@@ -1,1 +1,1 @@
-<?php echo phpinfo();?>
+I Will fuck you ！！！
